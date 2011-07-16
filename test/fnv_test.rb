@@ -1,5 +1,5 @@
 require "test/unit"
-require "fnv"
+require File.join(File.dirname(__FILE__), "..", "lib", "fnv")
 
 class FnvTest < Test::Unit::TestCase
   def test_fnv1_32
