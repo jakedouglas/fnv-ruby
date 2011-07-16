@@ -1,0 +1,4 @@
+.bundle
+pkg
+.DS_Store
+test_generator.rb
