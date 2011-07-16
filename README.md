@@ -1,6 +1,8 @@
 [Fowler-Noll-Vo hash](http://en.wikipedia.org/wiki/Fowler_Noll_Vo_hash)
 ====================
 
+gem install fnv
+
 ```ruby
 require "fnv"
 
