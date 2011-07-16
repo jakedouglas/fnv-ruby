@@ -1,9 +1,9 @@
 [Fowler-Noll-Vo hash](http://en.wikipedia.org/wiki/Fowler_Noll_Vo_hash)
 ====================
 
+```ruby
 gem install fnv
 
-```ruby
 require "fnv"
 
 FNV.new.fnv1a_64("blah") => 14233852691173593346
