@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "fnv.gemspec",
     "lib/fnv.rb",
     "test/fnv_test.rb",
     "test_fnv.c"
